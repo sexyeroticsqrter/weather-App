@@ -8,3 +8,6 @@ exclude_paths:
   - "node_modules"
   - "public"
   - "scripts"
+  - "src/**/*.dev.{js,jsx,mjs}"
+  - "src/initialState.js"
+  - "spec"
